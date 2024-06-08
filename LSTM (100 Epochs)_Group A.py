@@ -373,6 +373,3 @@ plt.ylabel('accuracy')
 plt.xlabel('epoch')
 plt.legend(['train', 'validation'], loc='upper left')
 plt.show()
-
-!pip install pyngrok
-!pip install Flask
